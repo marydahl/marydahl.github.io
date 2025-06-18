@@ -1,13 +1,4 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- MathWorks Fellowship, awarded twice in 2023 and in 2024.
+- MIT AeroAstro Outstanding Graduate Student Leadership Recognition Award, 2023.
+- Actor for <em>The V.E.R.S. Project</em>, Webby Award in Best Social Gaming Experience, 2022. [[Webby]](https://winners.webbyawards.com/2022/games/game-features/best-social-gaming-experience/204315/the-vers-project) [[Trailer]](https://www.instagram.com/p/Cc5YEfMAkEo/)
+- MIT AeroAstro Community Recognition Graduate Teaching Assistantship Award, 2022.
