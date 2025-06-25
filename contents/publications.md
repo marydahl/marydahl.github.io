@@ -2,11 +2,13 @@
 
 - Adam Bahlous-Boldi, Leila Freitag, Amber Cooper, <strong>Mary Dahl</strong>, Afreen Siddiqi, John Leckey, and Kerri Cahoy (2025). Deployable Diffractive Optical Elements for Small Satellite Lidar Missions. <em>39th Annual Small Satellite Conference</em>. Paper, to be published.
 
-- <strong>Mary Dahl</strong>, Sophie Bergkvist, and Kerri Cahoy (2025). Satellite System Design and Algorithms for Targeted Cloud Measurements. <em>NASA Earth and Planetary Cloud Workshop 2025</em>. Poster, to be published.
+- <strong>Mary Dahl</strong>, Sophie Bergkvist, and Kerri Cahoy (2025). Satellite System Design and Algorithms for Targeted Cloud Measurements. <em>NASA Earth and Planetary Cloud Workshop 2025</em>. [[Poster]](/static/assets/pdf/pcarfposter.pdf)
 
 - Adam Bahlous-Boldi, Celvi Lisy, Neelambar Mondal, Brianna Ferro, Shreeyam Kacker, <strong>Mary Dahl</strong>, Madeline Anderson, and Kerri Cahoy (2024). BeaverCube II: Using AI-Optimized Processors on Earth-Observing CubeSats for Autonomous Image Analysis and Intelligent Data Handling. <em>38th Annual Small Satellite Conference</em>. [[Paper]](https://digitalcommons.usu.edu/smallsat/2024/all2024/117/)
 
 - <strong>Mary Dahl</strong> and Kerri Cahoy (2024). Machine Learning Algorithm and Multi Sensor Suite for Orbital Power Line Management and Wildfire Prediction. <em>AIAA SciTech Forum 2024</em>. [[Paper]](https://doi.org/10.2514/6.2024-2272)
+
+- <strong>Mary Dahl</strong> (2023). Build a CubeSat: A Collaborative, Hands-On Program for High School Students at MIT. <em>SmallSat Education Conference</em>. [[Presentation]]
 
 - <strong>Mary Dahl</strong>, Christine Page, Kerri Cahoy, and Evana Gizzi (2023). Developing Intelligent Space Systems: A Survey and Rubric for Future Missions. <em>37th Annual Small Satellite Conference</em>. [[Paper]](https://digitalcommons.usu.edu/smallsat/2023/all2023/14/)
 
