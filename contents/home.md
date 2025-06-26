@@ -17,4 +17,4 @@ M.S., Aerospace Engineering, Massachusetts Institute of Technology, 2020—2022.
 B.S., Aerospace Engineering with a minor in Creative Writing, Massachusetts Institute of Technology, 2016-2020.
 
 #### Research Interests
-Satellite engineering, instrumentation, Earth observation, autonomy, systems engineering
+Satellite engineering, instrumentation, Earth observation, clouds, autonomy, systems engineering
