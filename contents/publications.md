@@ -8,7 +8,7 @@
 
 - <strong>Mary Dahl</strong> and Kerri Cahoy (2024). Machine Learning Algorithm and Multi Sensor Suite for Orbital Power Line Management and Wildfire Prediction. <em>AIAA SciTech Forum 2024</em>. [[Paper]](https://doi.org/10.2514/6.2024-2272)
 
-- <strong>Mary Dahl</strong> (2023). Build a CubeSat: A Collaborative, Hands-On Program for High School Students at MIT. <em>SmallSat Education Conference</em>. [[Presentation]]
+- <strong>Mary Dahl</strong> (2023). Build a CubeSat: A Collaborative, Hands-On Program for High School Students at MIT. <em>SmallSat Education Conference</em>. [[Presentation]](/static/assets/pdf/smallsatedu.pdf)
 
 - <strong>Mary Dahl</strong>, Christine Page, Kerri Cahoy, and Evana Gizzi (2023). Developing Intelligent Space Systems: A Survey and Rubric for Future Missions. <em>37th Annual Small Satellite Conference</em>. [[Paper]](https://digitalcommons.usu.edu/smallsat/2023/all2023/14/)
 
