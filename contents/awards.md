@@ -1,4 +1,0 @@
-- MathWorks Fellowship, awarded twice in 2023 and in 2024.
-- MIT AeroAstro Outstanding Graduate Student Leadership Recognition Award, 2023.
-- Actor for <em>The V.E.R.S. Project</em>, Webby Award in Best Social Gaming Experience, 2022. [[Webby]](https://winners.webbyawards.com/2022/games/game-features/best-social-gaming-experience/204315/the-vers-project) [[Trailer]](https://www.instagram.com/p/Cc5YEfMAkEo/)
-- MIT AeroAstro Community Recognition Graduate Teaching Assistantship Award, 2022.
